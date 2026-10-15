@@ -1,0 +1,37 @@
+# Local environment and database credentials
+.env
+.env.*
+!.env.example
+/config/db.php
+
+# Dependencies
+/vendor/
+/node_modules/
+
+# User-uploaded files (keep directory placeholders)
+/uploads/**
+!/uploads/**/
+!/uploads/**/.gitkeep
+
+# Logs, caches, and temporary files
+*.log
+error_log
+/logs/
+/cache/
+/tmp/
+*.tmp
+*.swp
+*.swo
+*~
+
+# Generated backups
+*.bak
+*.backup
+/scripts/*_backup_*.csv
+
+# Editor and operating system files
+/.idea/
+/.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
