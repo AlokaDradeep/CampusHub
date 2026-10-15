@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<announcements>
+  <announcement id="1">
+    <title>Welcome to CampusHub</title>
+    <content>CampusHub is live! Explore clubs, events, and resources.</content>
+    <date>2026-06-01</date>
+    <priority>high</priority>
+  </announcement>
+  <announcement id="2">
+    <title>Summer Workshop Series</title>
+    <content>A set of workshops open to all students this summer.</content>
+    <date>2026-06-10</date>
+    <priority>normal</priority>
+  </announcement>
+  <announcement id="3">
+    <title>Sports Week</title>
+    <content>Join intramural sports and friendly competitions.</content>
+    <date>2026-06-15</date>
+    <priority>normal</priority>
+  </announcement>
+  <announcement id="4">
+    <title>Art Exhibition</title>
+    <content>Student artworks showcased in the Art Center gallery.</content>
+    <date>2026-06-20</date>
+    <priority>normal</priority>
+  </announcement>
+  <announcement id="5">
+    <title>Volunteer Drive</title>
+    <content>Local community volunteering opportunities.</content>
+    <date>2026-06-22</date>
+    <priority>normal</priority>
+  </announcement>
+</announcements>
